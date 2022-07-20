@@ -2,7 +2,8 @@
 DHCP client discovery information
 
 ```
-python discovery_dhcp.py en0
+python3 discovery_dhcp.py en0
+# in your case, specify the interface on your local machine/server (eth0, ens192 etc..)
 ```
 
 An example output should be:
